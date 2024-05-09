@@ -4,5 +4,5 @@ def word(a: str) -> str:
 
 
 def capitalize_word(a: str) -> str:
-    """Функция возвращает слово заглавными буквами"""
+    """Функция возвращает слово c заглавной буквы"""
     return a.capitalize()
